@@ -1,6 +1,10 @@
 # 🏛️ Compendio Maestro 360° de Agent Skills — De la Idea e Investigación hasta la Aplicación, Publicación Cloud, Publicidad, Redes Sociales y Operación Autónoma 24/7
 
-> **Estándar Abierto `SKILL.md` (`agentskills.io`)** · **45 Skills de Nivel Principal / Staff Engineer** · Compatible con **Google Antigravity**, **Claude Code**, **Cursor**, **GitHub Copilot Agent**, **Windsurf** y **OpenAI Codex**.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
+[![Agent Skills Standard](https://img.shields.io/badge/Standard-SKILL.md%20(agentskills.io)-10B981.svg)](https://agentskills.io)
+[![Skills Count](https://img.shields.io/badge/Skills-45%20Production%20Grade-6366F1.svg)](#📚-catálogo-detallado-de-las-45-skills-por-fase-del-ciclo-de-vida)
+
+> **Estándar Abierto `SKILL.md` (`agentskills.io`)** · **45 Skills de Nivel Principal / Staff Engineer** · **Licencia: [GNU General Public License v3.0 (GPL-3.0)](./LICENSE)** · Compatible con **Google Antigravity**, **Claude Code**, **Cursor**, **GitHub Copilot Agent**, **Windsurf** y **OpenAI Codex**.
 
 Este repositorio es un **compendio integral y autocontenido de 45 Agent Skills** diseñado para cubrir **el 100% del ciclo de vida de un producto tecnológico y de negocio**: desde la chispa de la idea inicial, la investigación profunda y el diseño de arquitectura, pasando por el desarrollo Web, Móvil, Escritorio, Pagos e Inteligencia Artificial, hasta las pruebas empíricas de QA, ciberseguridad Zero-Trust, documentación viva, videos demostrativos automatizados, despliegue en la nube, campañas publicitarias, **automatización de redes sociales** y **operación autónoma 24/7 con auto-recuperación**.
 
@@ -296,3 +300,17 @@ git clone https://github.com/SIASA-NI/AI-SIASANI-Skills.git
 # O mediante skills.sh CLI:
 npx skills add SIASA-NI/AI-SIASANI-Skills
 ```
+
+---
+
+## ⚖️ Licencia — GNU General Public License v3.0 (GPL-3.0)
+
+Este repositorio y todas las **45 Agent Skills** que lo componen se distribuyen bajo los términos de la **[GNU General Public License v3.0 (GPL-3.0)](./LICENSE)**.
+
+### Derechos y Obligaciones Principales (GPL-3.0)
+- ✅ **Uso comercial, privado y académico permitido:** Puedes utilizar, ejecutar e integrar estas skills en tus agentes de IA, flujos de ingeniería y proyectos.
+- ✅ **Libertad de estudio y modificación:** Puedes adaptar, ampliar y personalizar cualquier archivo `SKILL.md` según las necesidades de tu organización.
+- ✅ **Redistribución libre con Copyleft:** Si redistribuyes este compendio o publicas versiones derivadas/modificadas de sus skills, **debes mantener la misma licencia [GNU GPL v3.0](./LICENSE)**, conservar el aviso de autoría original y poner el código fuente/especificaciones a disposición de los receptores bajo las mismas libertades.
+- ⚠️ **Sin garantía:** El software y las especificaciones se proporcionan *"tal cual" (AS IS)*, sin garantías implícitas ni explícitas, conforme a las secciones 15 y 16 de la licencia.
+
+📄 Consulta el texto legal íntegro en el archivo **[LICENSE](./LICENSE)**.
