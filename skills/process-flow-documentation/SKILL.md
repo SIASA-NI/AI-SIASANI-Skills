@@ -73,3 +73,4 @@ Cada proceso documentado debe incluir obligatoriamente estos **6 componentes**:
 - [ ] ¿El flujo tiene exactamente un nodo `(["Inicio"])`, al menos un nodo `(["Fin"])` y todas las decisiones `{¿...?}` tienen sus ramas `Sí` y `No` etiquetadas?
 - [ ] ¿Los endpoints y nombres de tablas citados en la tabla de pasos existen realmente en el código fuente?
 - [ ] ¿El proceso incluye su ficha SIPOC, su diagrama IDEF0, su diagrama de carriles y su matriz RACI?
+

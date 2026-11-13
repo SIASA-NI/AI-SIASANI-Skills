@@ -57,3 +57,4 @@ flowchart TD
 - [ ] ¿El hilo de captura reconecta automáticamente cuando el usuario cambia el dispositivo de salida predeterminado en Windows 11?
 - [ ] ¿El consumo de CPU se mantiene por debajo del 1.5% en silencio y < 3.0% en voz continua?
 - [ ] ¿El audio convertido a 16 kHz mono está libre de clics acústicos y distorsión?
+

@@ -73,3 +73,4 @@ description: >-
 - [ ] ¿Cada ajuste de inventario por merma o diferencia de conteo exige motivo, usuario aprobador distinto al operador y asiento contable automático?
 - [ ] ¿El Kardex registra el costo unitario promedio ponderado (NIC 2) antes y después de cada entrada de compra?
 - [ ] ¿Las pantallas para terminales portátiles (Handhelds) están optimizadas para lectores láser de códigos de barras (foco automático en el campo de escaneo y confirmación sonora/visual)?
+

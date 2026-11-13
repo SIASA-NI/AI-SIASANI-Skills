@@ -38,3 +38,4 @@ description: >-
 - [ ] ¿Las cámaras IP y relojes biométricos están en una VLAN aislada sin acceso a Internet ni a la red de bases de datos corporativas?
 - [ ] ¿Se cambiaron todas las contraseñas por defecto y se desactivó el acceso remoto inseguro P2P/UPnP?
 - [ ] ¿Los switches PoE y grabadores NVR cuentan con respaldo de energía UPS verificado?
+

@@ -67,3 +67,4 @@ Prohibidas las cartas de presentación genéricas o aduladoras. Todo mensaje al 
 - [ ] ¿Se verificó que la oferta esté activa y provenga de una fuente real y verificable?
 - [ ] ¿Se calculó objetivamente el *Fit Score* desglosando qué requisitos se cumplen al 100% y qué brechas existen?
 - [ ] ¿El mensaje de presentación cita elementos reales de la empresa y del perfil del candidato sin inventar experiencia?
+

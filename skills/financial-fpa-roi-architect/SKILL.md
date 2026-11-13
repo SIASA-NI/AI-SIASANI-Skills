@@ -97,3 +97,4 @@ Cuando el software gestiona múltiples empresas de un mismo grupo corporativo en
 - [ ] ¿Los asientos contables validan transaccionalmente que $\sum \text{Debe} = \sum \text{Haber}$ antes de hacer `Commit`?
 - [ ] ¿Se manejan correctamente las divisiones por cero en todos los ratios financieros (retornando `0` o `N/A` en lugar de `NaN` / `Infinity` / `DivideByZeroException`)?
 - [ ] ¿Las conversiones multimoneda registran explícitamente la tasa de cambio utilizada en la fecha de la operación?
+

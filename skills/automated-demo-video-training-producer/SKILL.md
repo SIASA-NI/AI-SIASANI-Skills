@@ -64,3 +64,4 @@ ffmpeg -y -i ui_capture_raw.webm -i locucion_completa.mp3 \
 - [ ] ¿El archivo `.mp4` utiliza formato de píxel `yuv420p` y códec `H.264` + `AAC` para reproducirse nativamente en Chrome, Safari, iOS, Android y WhatsApp?
 - [ ] ¿Se verificó con `ffprobe` que el video tiene una duración válida, pista de audio activa (`> 0 dB`) y subtítulos legibles?
 - [ ] ¿El video quedó correctamente enlazado en el manual de usuario y en el documento del proceso correspondiente?
+

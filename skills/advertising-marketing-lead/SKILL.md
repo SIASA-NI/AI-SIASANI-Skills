@@ -61,3 +61,4 @@ Adaptar el mensaje según el nivel de conciencia de la audiencia:
 - [ ] ¿Todas las piezas gráficas y audiovisuales incluyen visiblemente el sitio web y el número de WhatsApp de contacto?
 - [ ] ¿Se verificó visualmente que ningún texto en los flyers o videos se desborde de su tarjeta ni se solape con otros elementos?
 - [ ] ¿Los videos generados tienen audio claro, música equilibrada que no opaca la voz y revelación progresiva dinámica?
+

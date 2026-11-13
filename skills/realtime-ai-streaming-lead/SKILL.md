@@ -63,3 +63,4 @@ sequenceDiagram
 - [ ] ¿El renderizado de tokens en streaming mantiene el scroll suave sin provocar saltos de layout (`CLS = 0`)?
 - [ ] ¿Existe manejo explícito de errores `HTTP 401` (API Key inválida), `HTTP 429` (Rate Limit con fallback) y desconexión de red?
 - [ ] ¿Las claves de API se almacenan cifradas y nunca aparecen en logs ni en el código fuente?
+

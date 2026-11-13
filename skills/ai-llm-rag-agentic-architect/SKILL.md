@@ -58,3 +58,4 @@ Al exponer herramientas para que un agente interactúe con la plataforma:
 - [ ] ¿Se configuraron límites de gasto (*Token Budgets*), timeouts y *Rate Limiting* por usuario/inquilino?
 - [ ] ¿Las respuestas generadas incluyen citas verificables hacia los documentos fuente recuperados?
 - [ ] ¿Las herramientas con efectos secundarios de escritura exigen validación de esquema y confirmación humana cuando son críticas?
+

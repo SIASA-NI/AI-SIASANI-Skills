@@ -84,3 +84,4 @@ Cuando un paso del proceso invoca un agente de IA (ej. clasificación automátic
 - [ ] ¿Las definiciones de procesos están versionadas de forma inmutable en la base de datos?
 - [ ] ¿Los formularios dinámicos validan su payload contra el JSON Schema en el backend y sanitizan entradas contra XSS?
 - [ ] ¿Cada transición de estado queda registrada en la bitácora de auditoría con fecha UTC, actor, comentario y duración del paso?
+

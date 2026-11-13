@@ -60,3 +60,4 @@ description: >-
 - [ ] ¿El resumen ejecutivo inicial se puede leer en menos de 3 minutos y deja claro el estado real sin eufemismos?
 - [ ] ¿Cada hallazgo técnico viene acompañado de su impacto comercial/financiero y del costo/esfuerzo estimado de su solución?
 - [ ] ¿Se diferenciaron claramente las acciones inmediatas sin costo (*Quick Wins*) de los proyectos que requieren presupuesto aprobado?
+

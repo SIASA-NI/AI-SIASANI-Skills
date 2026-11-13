@@ -53,3 +53,4 @@ stateDiagram-v2
 - [ ] ¿Se probó enviar el mismo evento de Webhook 2 veces seguidas comprobando que no duplica facturas, ni créditos, ni correos al cliente?
 - [ ] ¿Se implementó el flujo de *Dunning* (avisos automáticos por correo/WhatsApp cuando falla la tarjeta antes de suspender el servicio)?
 - [ ] ¿Todos los montos se almacenan y operan en tipos decimales exactos o enteros en centavos junto con su código de moneda ISO 4217 (`USD`, `EUR`, `MXN`, `NIO`, `CRC`)?
+

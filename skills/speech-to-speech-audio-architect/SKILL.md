@@ -54,3 +54,4 @@ flowchart TD
 - [ ] ¿Se comprobó con volumen al 100% que la voz sintetizada no vuelve a entrar al pipeline generando un bucle infinito de traducción?
 - [ ] ¿El tiempo desde que el hablante termina una oración hasta que comienza a escucharse la voz sintetizada es inferior a 750 ms?
 - [ ] ¿El Micrófono Virtual permanece estable y seleccionable en Meet/Zoom/Teams sin desconectarse entre pausas de habla?
+

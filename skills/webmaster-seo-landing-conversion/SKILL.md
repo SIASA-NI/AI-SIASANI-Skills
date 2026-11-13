@@ -105,3 +105,4 @@ Incluir el bloque `<script type="application/ld+json">` declarando la entidad `S
 - [ ] ¿El formulario de contacto procesa envíos reales por API sin depender de `mailto:` ni `alert()`?
 - [ ] ¿Se verificó que todos los enlaces a la Demo, redes sociales y WhatsApp abren destinos válidos (cero enlaces rotos `404` o `#`)?
 - [ ] ¿El diseño se visualiza sin cortes ni solapamientos en móvil (`375px`), tablet (`768px`) y desktop (`1440px`) con zoom al `125%` y `150%`?
+

@@ -78,3 +78,4 @@ Cuando una tarea de ingeniería o investigación es grande y divisible en partes
 - [ ] ¿El script o tarea programada cuenta con bloqueo contra ejecuciones simultáneas (`flock` / advisory lock) y timeout máximo?
 - [ ] ¿Se realizó una corrida de prueba en vivo confirmando que la automatización termina con código `0` sin pedir confirmación manual?
 - [ ] ¿Existe registro en bitácora (log con timestamp) tanto de las ejecuciones exitosas como de los fallos?
+

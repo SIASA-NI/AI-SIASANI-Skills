@@ -88,3 +88,4 @@ sha256sum src-tauri/target/release/bundle/*/* > SHA256SUMS.txt
 - [ ] ¿El archivo `.desktop` en Linux y el acceso directo en Windows muestran el icono de alta resolución correcto?
 - [ ] ¿La aplicación arranca en frío en menos de 1.5 segundos sin abrir consolas negras de comando (`windows_subsystem = "windows"` en Rust)?
 - [ ] ¿Se generó el archivo `SHA256SUMS.txt` junto con los binarios de distribución?
+

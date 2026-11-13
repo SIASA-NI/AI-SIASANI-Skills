@@ -50,3 +50,4 @@ echo "Monitor activo: ${DEFAULT_SINK}.monitor"
 - [ ] ¿Se verificó la captura del nodo `.monitor` en entornos PipeWire (`pipewire-pulse`) y PulseAudio sin requerir `sudo`?
 - [ ] ¿El sistema conmuta dinámicamente al nuevo `.monitor` si el usuario cambia la salida de altavoces a auriculares Bluetooth/USB?
 - [ ] ¿El uso de CPU durante la captura y resampling a 16 kHz se mantiene por debajo del 2%?
+

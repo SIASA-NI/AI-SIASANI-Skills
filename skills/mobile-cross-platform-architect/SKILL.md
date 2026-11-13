@@ -81,3 +81,4 @@ Para evitar rechazos durante la revisión oficial de las tiendas:
 - [ ] ¿Se probó activar el "Modo Avión" en mitad de una captura de datos verificando que la app no crashea y sincroniza al reconectar?
 - [ ] ¿Las vistas respetan las zonas seguras de pantalla (*SafeAreaView* para Notch, Dynamic Island y barra de gestos inferior) y el teclado virtual (`KeyboardAvoidingView`) no tapa el botón de envío?
 - [ ] ¿Están configurados los iconos adaptativos, Splash Screen y firmas de release (`.aab` / `.ipa`)?
+

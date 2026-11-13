@@ -46,3 +46,4 @@ Prohibido listar funciones pasivas (*"Encargado de dar mantenimiento a la base d
 - [ ] ¿El resumen superior (primer tercio de la página 1) destaca los años de experiencia, el stack nuclear y el rol objetivo exacto?
 - [ ] ¿El archivo está libre de barras de porcentaje subjetivas, errores ortográficos y frases cliché?
 - [ ] Si se generó un PDF, ¿se comprobó que el texto es 100% seleccionable y legible por un parser ATS?
+

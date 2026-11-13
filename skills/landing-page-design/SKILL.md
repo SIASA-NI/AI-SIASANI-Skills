@@ -45,3 +45,4 @@ description: >-
 - [ ] ¿Se reemplazaron las listas aburridas de texto por una cuadrícula Bento visual con métricas y componentes reales?
 - [ ] ¿Se verificó la página con zoom al `125%`, `150%` y en vista móvil (`375px`) comprobando cero scroll horizontal y cero solapamientos?
 - [ ] ¿Todos los contrastes de texto cumplen al menos `4.5:1` en ambos temas (Oscuro y Claro)?
+

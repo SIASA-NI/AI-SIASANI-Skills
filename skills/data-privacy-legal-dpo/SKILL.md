@@ -84,3 +84,4 @@ Para que los logs del sistema tengan validez legal ante una disputa comercial, a
 - [ ] ¿Existe un mecanismo de desactivación/anonimización de cuenta que no rompa las llaves foráneas de la base de datos?
 - [ ] ¿Se verificó que los datos sensibles (salud, salarios, credenciales) estén protegidos por control de acceso estricto basado en roles (RBAC)?
 - [ ] ¿Todos los archivos de código y documentación incluyen el encabezado de propiedad intelectual y copyright de la organización?
+

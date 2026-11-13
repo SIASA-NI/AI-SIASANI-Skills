@@ -50,3 +50,4 @@ Antes de lanzar a producción cualquier flujo transaccional (login, emisión de 
 - [ ] ¿Se verificó que tras completar la mutación en la UI y ejecutar `await page.reload()` los datos siguen en pantalla (persistencia real)?
 - [ ] ¿La suite captura automáticamente screenshot y trace (`.zip`) en caso de fallo para diagnóstico forense inmediato?
 - [ ] ¿Los endpoints críticos superaron la prueba de concurrencia sin producir errores `500` ni registros duplicados?
+

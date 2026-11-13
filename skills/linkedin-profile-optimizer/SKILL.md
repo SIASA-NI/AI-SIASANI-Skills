@@ -58,3 +58,4 @@ Los reclutadores filtran candidatos combinando **Cargos Normalizados (`Job Title
 - [ ] ¿El titular tiene `≤ 220 caracteres` y contiene el rol exacto y las tecnologías principales por las que buscan los reclutadores?
 - [ ] ¿El texto de "Acerca de" y de las experiencias suena 100% humano, sobrio y profesional (libre de clichés de IA y emojis excesivos)?
 - [ ] ¿Existe total coherencia entre las fechas, empresas y tecnologías declaradas en el CV y las del perfil de LinkedIn?
+

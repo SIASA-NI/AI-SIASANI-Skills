@@ -86,3 +86,4 @@ Una alerta solo debe despertar o notificar por WhatsApp/Telegram/Slack/Email al 
 - [ ] ¿Los contenedores tienen configurados `restart: unless-stopped`, `healthcheck` y límites de rotación de logs (`max-size`)?
 - [ ] ¿Los logs se emiten en formato JSON estructurado con `traceId`, `tenantId`, `level` y `timestampUtc`?
 - [ ] ¿Se verificó que si se reinicia el contenedor de base de datos o broker, los servicios reconectan automáticamente sin quedar muertos?
+

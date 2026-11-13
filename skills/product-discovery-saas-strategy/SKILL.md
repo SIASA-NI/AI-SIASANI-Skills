@@ -94,3 +94,4 @@ Una aplicación web o móvil exitosa debe permitir que un usuario nuevo experime
 - [ ] ¿Se calculó la relación costo/beneficio (RICE + impacto en servidor/APIs)?
 - [ ] ¿El diseño contempla cómo un cliente nuevo usará la funcionalidad por primera vez con datos semilla predeterminados?
 - [ ] ¿Se definió a qué plan o nivel de suscripción (*Entitlement*) pertenece la funcionalidad?
+

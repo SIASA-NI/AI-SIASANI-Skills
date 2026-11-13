@@ -84,3 +84,4 @@ flowchart LR
 - [ ] ¿Todas las publicaciones llevan sus enlaces con parámetros UTM válidos y datos de contacto verificados?
 - [ ] ¿La cola de publicación garantiza idempotencia (`UNIQUE constraint`) para no repetir el mismo post dos veces?
 - [ ] ¿Las credenciales OAuth2 de las cuentas sociales están almacenadas cifradas en el servidor y con monitoreo de expiración?
+

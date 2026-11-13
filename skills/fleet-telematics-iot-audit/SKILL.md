@@ -37,3 +37,4 @@ description: >-
 - [ ] ¿El ingester de telemetría maneja desconexiones en zonas sin cobertura (almacenamiento *Store-and-Forward* en memoria flash del GPS y reordenamiento por `event_timestamp_utc`)?
 - [ ] ¿Las lecturas históricas de temperatura y ubicación se almacenan en tablas particionadas e inmutables para auditorías regulatorias o reclamos de seguros?
 - [ ] ¿Están configuradas las alertas en tiempo real para geocercas, exceso de velocidad, cadena de frío y caída brusca de combustible?
+
