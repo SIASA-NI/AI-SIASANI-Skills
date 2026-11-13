@@ -1,18 +1,18 @@
-# 🏛️ Compendio Maestro 360° de Agent Skills — De la Idea e Investigación hasta la Aplicación, Publicación Cloud, Publicidad, Redes Sociales y Operación Autónoma 24/7
+# 🏛️ Compendio Maestro 360° de Agent Skills — De la Idea e Investigación hasta la Aplicación, Hardware, Software Médico, Dental, IIoT, Cloud, Redes Sociales y Operación Autónoma 24/7
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
 [![Agent Skills Standard](https://img.shields.io/badge/Standard-SKILL.md%20(agentskills.io)-10B981.svg)](https://agentskills.io)
-[![Skills Count](https://img.shields.io/badge/Skills-58%20Production%20Grade-6366F1.svg)](#📖-catálogo-maestro-explicado-por-fase-del-ciclo-de-vida)
+[![Skills Count](https://img.shields.io/badge/Skills-63%20Production%20Grade-6366F1.svg)](#📖-catálogo-maestro-explicado-por-fase-del-ciclo-de-vida)
 
-> **Estándar Abierto `SKILL.md` (`agentskills.io`)** · **58 Skills de Nivel Principal / Staff Engineer** · **Licencia: [GNU General Public License v3.0 (GPL-3.0)](./LICENSE)** · Compatible con **Google Antigravity**, **Claude Code**, **Cursor**, **GitHub Copilot Agent**, **Windsurf** y **OpenAI Codex**.
+> **Estándar Abierto `SKILL.md` (`agentskills.io`)** · **63 Skills de Nivel Principal / Staff Engineer** · **Licencia: [GNU General Public License v3.0 (GPL-3.0)](./LICENSE)** · Compatible con **Google Antigravity**, **Claude Code**, **Cursor**, **GitHub Copilot Agent**, **Windsurf** y **OpenAI Codex**.
 
-Este repositorio es un **compendio integral y autocontenido de 58 Agent Skills** diseñado para cubrir **el 100% del ciclo de vida de un producto tecnológico y de negocio**: desde la chispa de la idea inicial, la investigación profunda y el diseño de arquitectura, pasando por el desarrollo Web, Móvil, Escritorio, Edge/Serverless, Ingeniería de Datos, ERP/Contabilidad, E-Commerce, Pagos e Inteligencia Artificial (RAG, MCP, Clonación de Voz), hasta las pruebas empíricas de QA/TDD, depuración científica de causa raíz, ciberseguridad Zero-Trust, automatización ofimática (PDF/DOCX/XLSX/PPTX), videos demostrativos, despliegue en la nube, campañas publicitarias, **CRO/Analítica**, **automatización de redes sociales**, **Service Desk ITIL v4** y **operación autónoma 24/7 con auto-recuperación**.
+Este repositorio es un **compendio integral y autocontenido de 63 Agent Skills** diseñado para cubrir **el 100% del ciclo de vida de un producto tecnológico, industrial, médico y de negocio**: desde la chispa de la idea inicial, la investigación profunda y el diseño de arquitectura, pasando por el desarrollo Web, Móvil, Escritorio, **Hardware Periférico (Lectores de Códigos de Barras, Lectores/Generadores QR, Impresoras Térmicas ESC/POS, Balanzas)**, **Software Médico Hospitalario (HL7 v2.x, FHIR R4/R5, DICOM/PACS, HIPAA)**, **Software Dental y Clínico (Odontograma SVG FDI/Universal/Palmer, Periodontograma, TWAIN/Rayos X)**, **Automatización Industrial IIoT/SCADA (OPC UA, Modbus TCP/RTU, PLCs, MQTT Sparkplug B)**, Edge/Serverless, Ingeniería de Datos, ERP/Contabilidad, E-Commerce, Pagos e Inteligencia Artificial (RAG, MCP, Clonación de Voz, Traducción Automática e i18n), hasta las pruebas empíricas de QA/TDD, depuración científica de causa raíz, ciberseguridad Zero-Trust, automatización ofimática (PDF/DOCX/XLSX/PPTX), videos demostrativos, despliegue en la nube, campañas publicitarias, **CRO/Analítica**, **automatización de redes sociales**, **Service Desk ITIL v4** y **operación autónoma 24/7 con auto-recuperación**.
 
-Sintetiza estándares de ingeniería probados en producción junto con los patrones de los repositorios más influyentes del ecosistema global (**`anthropics/skills`**, **`obra/superpowers`**, **`vercel-labs/agent-skills`**, **`supabase/agent-skills`**, **`cloudflare/skills`**, **`coreyhaines31/marketingskills`**, **`NVIDIA/NeMo-Guardrails`**, **`rwspatin/bpmn-skill`**, **DDD**, **OWASP ASVS v4**, **ISO/IEC 27001/42001/9001/22301**, **NIIF/IFRS** y **C4 Model**).
+Sintetiza estándares de ingeniería probados en producción junto con los patrones de los repositorios y organizaciones más influyentes del ecosistema global (**`anthropics/skills`**, **`obra/superpowers`**, **`vercel-labs/agent-skills`**, **`supabase/agent-skills`**, **`cloudflare/skills`**, **`coreyhaines31/marketingskills`**, **HL7 International**, **DICOM Standard**, **ADA**, **OPC Foundation**, **Modbus Organization**, **`NVIDIA/NeMo-Guardrails`**, **`rwspatin/bpmn-skill`**, **DDD**, **OWASP ASVS v4**, **ISO/IEC 27001/42001/9001/22301**, **NIIF/IFRS** y **C4 Model**).
 
 ---
 
-## 🧭 Mapa del Ciclo de Vida Completo 360° (Las 9 Fases y sus 58 Skills)
+## 🧭 Mapa del Ciclo de Vida Completo 360° (Las 9 Fases y sus 63 Skills)
 
 ```mermaid
 flowchart TB
@@ -51,64 +51,69 @@ flowchart TB
         S16["16. software-architecture-diagrammer"]:::arch
     end
 
-    subgraph F3 ["Fase 3: Creación de Web, Landing Pages, Apps Móviles, Escritorio Nativo, IA, MCP y Voz (12)"]
+    subgraph F3 ["Fase 3: Creación Web, App Móvil, Desktop, Hardware, IA, MCP y Voz (14)"]
         S17["17. ui-ux-design-system-architect"]:::build
         S18["18. landing-page-design"]:::build
         S19["19. webmaster-seo-landing-conversion"]:::build
         S20["20. mobile-cross-platform-architect"]:::build
         S21["21. cross-platform-desktop-packager"]:::build
-        S22["22. ai-llm-rag-agentic-architect"]:::build
-        S23["23. mcp-server-builder-architect"]:::build
-        S24["24. realtime-ai-streaming-lead"]:::build
-        S25["25. speech-to-speech-audio-architect"]:::build
-        S26["26. voice-cloning-acoustic-adaptation"]:::build
-        S27["27. windows-audio-native-architect"]:::build
-        S28["28. linux-audio-native-architect"]:::build
+        S22["22. barcode-qr-thermal-hardware-bridge"]:::build
+        S23["23. ai-llm-rag-agentic-architect"]:::build
+        S24["24. mcp-server-builder-architect"]:::build
+        S25["25. realtime-ai-streaming-lead"]:::build
+        S26["26. speech-to-speech-audio-architect"]:::build
+        S27["27. voice-cloning-acoustic-adaptation"]:::build
+        S28["28. machine-translation-localization-i18n"]:::build
+        S29["29. windows-audio-native-architect"]:::build
+        S30["30. linux-audio-native-architect"]:::build
     end
 
-    subgraph F4 ["Fase 4: ERP/Contabilidad, E-Commerce, Fintech, Logística WMS/TMS, Flotas IoT y Auditoría Ejecutiva (8)"]
-        S29["29. erp-accounting-payroll-architect"]:::domain
-        S30["30. ecommerce-catalog-checkout-architect"]:::domain
-        S31["31. fintech-payments-billing-architect"]:::domain
-        S32["32. logistics-distribution-systems"]:::domain
-        S33["33. fleet-telematics-iot-audit"]:::domain
-        S34["34. cctv-physical-security-audit"]:::domain
-        S35["35. it-governance-forensic-audit"]:::domain
-        S36["36. executive-board-reporting"]:::domain
+    subgraph F4 ["Fase 4: Verticales Especializadas: Salud/Médico, Dental, IIoT Industrial, ERP, E-Commerce, Fintech y Logística (11)"]
+        S31["31. healthcare-hl7-fhir-medical-systems"]:::domain
+        S32["32. dental-odontogram-imaging-systems"]:::domain
+        S33["33. industrial-iiot-scada-plc-architect"]:::domain
+        S34["34. erp-accounting-payroll-architect"]:::domain
+        S35["35. ecommerce-catalog-checkout-architect"]:::domain
+        S36["36. fintech-payments-billing-architect"]:::domain
+        S37["37. logistics-distribution-systems"]:::domain
+        S38["38. fleet-telematics-iot-audit"]:::domain
+        S39["39. cctv-physical-security-audit"]:::domain
+        S40["40. it-governance-forensic-audit"]:::domain
+        S41["41. executive-board-reporting"]:::domain
     end
 
     subgraph F5 ["Fase 5: Calidad Empírica (QA), TDD, Depuración Científica, Ciberseguridad y Auto-Curación SRE (6)"]
-        S37["37. qa-evidence-based-verification"]:::qa
-        S38["38. tdd-red-green-refactor"]:::qa
-        S39["39. systematic-debugging-root-cause"]:::qa
-        S40["40. e2e-webapp-load-testing-lead"]:::qa
-        S41["41. cybersecurity-zero-trust-defensive"]:::qa
-        S42["42. observability-sre-self-healing"]:::qa
+        S42["42. qa-evidence-based-verification"]:::qa
+        S43["43. tdd-red-green-refactor"]:::qa
+        S44["44. systematic-debugging-root-cause"]:::qa
+        S45["45. e2e-webapp-load-testing-lead"]:::qa
+        S46["46. cybersecurity-zero-trust-defensive"]:::qa
+        S47["47. observability-sre-self-healing"]:::qa
     end
 
     subgraph F6 ["Fase 6: Documentación Viva (Docs-as-Code), Suite Ofimática, Procesos de Negocio y Videos Demo (4)"]
-        S43["43. technical-documentation-process-governance"]:::docs
-        S44["44. process-flow-documentation"]:::docs
-        S45["45. office-document-automation-suite"]:::docs
-        S46["46. automated-demo-video-training-producer"]:::docs
+        S48["48. technical-documentation-process-governance"]:::docs
+        S49["49. process-flow-documentation"]:::docs
+        S50["50. office-document-automation-suite"]:::docs
+        S51["51. automated-demo-video-training-producer"]:::docs
     end
 
     subgraph F7 ["Fase 7: Publicación Cloud, Edge/Serverless, Git Worktrees y Mantenimiento Evolutivo (4)"]
-        S47["47. devops-immutable-cloud-infrastructure"]:::ops
-        S48["48. edge-serverless-cdn-architect"]:::ops
-        S49["49. git-worktree-release-engineering"]:::ops
-        S50["50. code-simplifier-refactoring-maintenance"]:::ops
+        S52["52. devops-immutable-cloud-infrastructure"]:::ops
+        S53["53. edge-serverless-cdn-architect"]:::ops
+        S54["54. git-worktree-release-engineering"]:::ops
+        S55["55. code-simplifier-refactoring-maintenance"]:::ops
     end
 
     subgraph F8 ["Fase 8 & 9: Publicidad, CRO, Redes Sociales, Soporte ITIL, Cron/Swarm y Talento (8)"]
-        S51["51. advertising-marketing-lead"]:::growth
-        S52["52. cro-analytics-growth-experiments"]:::growth
-        S53["53. social-media-omnichannel-automation"]:::growth
-        S54["54. customer-success-support-automation"]:::growth
-        S55["55. autonomous-workflow-cron-swarm"]:::growth
-        S56["56. job-hunter-scout"]:::growth
-        S57["57. resume-ats-optimizer"]:::growth
-        S58["58. linkedin-profile-optimizer"]:::growth
+        S56["56. advertising-marketing-lead"]:::growth
+        S57["57. cro-analytics-growth-experiments"]:::growth
+        S58["58. social-media-omnichannel-automation"]:::growth
+        S59["59. customer-success-support-automation"]:::growth
+        S60["60. autonomous-workflow-cron-swarm"]:::growth
+        S61["61. job-hunter-scout"]:::growth
+        S62["62. resume-ats-optimizer"]:::growth
+        S63["63. linkedin-profile-optimizer"]:::growth
     end
 
     F0 --> F1 --> F2 --> F3 --> F4 --> F5 --> F6 --> F7 --> F8
@@ -116,7 +121,7 @@ flowchart TB
 
 ---
 
-## 📂 Árbol Completo de Archivos del Repositorio (58 Skills)
+## 📂 Árbol Completo de Archivos del Repositorio (63 Skills)
 
 Cada skill cuenta con su propio archivo canónico `SKILL.md` listo para ser descubierto por cualquier agente compatible:
 
@@ -133,6 +138,7 @@ AI-SIASANI-Skills/
     ├── autonomous-token-frugal-governance/SKILL.md
     ├── autonomous-workflow-cron-swarm/SKILL.md
     ├── backend-ddd-clean-architect/SKILL.md
+    ├── barcode-qr-thermal-hardware-bridge/SKILL.md
     ├── bpm-workflow-saga-architect/SKILL.md
     ├── cctv-physical-security-audit/SKILL.md
     ├── code-simplifier-refactoring-maintenance/SKILL.md
@@ -145,6 +151,7 @@ AI-SIASANI-Skills/
     ├── data-privacy-legal-dpo/SKILL.md
     ├── database-postgresql-architect/SKILL.md
     ├── deep-search-research-lead/SKILL.md
+    ├── dental-odontogram-imaging-systems/SKILL.md
     ├── devops-immutable-cloud-infrastructure/SKILL.md
     ├── e2e-webapp-load-testing-lead/SKILL.md
     ├── ecommerce-catalog-checkout-architect/SKILL.md
@@ -155,6 +162,8 @@ AI-SIASANI-Skills/
     ├── fintech-payments-billing-architect/SKILL.md
     ├── fleet-telematics-iot-audit/SKILL.md
     ├── git-worktree-release-engineering/SKILL.md
+    ├── healthcare-hl7-fhir-medical-systems/SKILL.md
+    ├── industrial-iiot-scada-plc-architect/SKILL.md
     ├── integrity-governance-guard/SKILL.md
     ├── it-governance-forensic-audit/SKILL.md
     ├── job-hunter-scout/SKILL.md
@@ -162,6 +171,7 @@ AI-SIASANI-Skills/
     ├── linkedin-profile-optimizer/SKILL.md
     ├── linux-audio-native-architect/SKILL.md
     ├── logistics-distribution-systems/SKILL.md
+    ├── machine-translation-localization-i18n/SKILL.md
     ├── mcp-server-builder-architect/SKILL.md
     ├── mobile-cross-platform-architect/SKILL.md
     ├── observability-sre-self-healing/SKILL.md
@@ -226,7 +236,7 @@ AI-SIASANI-Skills/
 
 ---
 
-### Fase 3: Creación de Web, Landing Pages, Apps Móviles, Escritorio Nativo, IA, MCP y Voz (12)
+### Fase 3: Creación Web, App Móvil, Desktop, Hardware, IA, MCP y Voz (14)
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
@@ -235,28 +245,33 @@ AI-SIASANI-Skills/
 | **19** | **Webmaster, Technical SEO & Conversion Architect** | [SKILL.md](./skills/webmaster-seo-landing-conversion/SKILL.md) | **Arquitectura web pública, SEO técnico y conversión (CRO).** Estructura de 7 secciones de persuasión, Core Web Vitals (`LCP < 1.8s`, `CLS = 0`), metadatos OpenGraph, JSON-LD `Schema.org`, `sitemap.xml` y formularios asíncronos + WhatsApp directo. |
 | **20** | **Mobile Cross-Platform & Offline-First Architect** | [SKILL.md](./skills/mobile-cross-platform-architect/SKILL.md) | **Desarrollo de apps móviles iOS y Android (React Native / Flutter).** Sincronización *Offline-First* con base local SQLite y cola de mutaciones idempotente, almacenamiento en Keychain/Keystore (OWASP MASVS), biometría, notificaciones Push y reglas de aprobación en App Store y Google Play. |
 | **21** | **Cross-Platform Desktop Packaging Architect** | [SKILL.md](./skills/cross-platform-desktop-packager/SKILL.md) | **Empaquetado nativo de escritorio (Tauri 2.0 / Electron / Rust).** Generación determinista de instaladores para Windows (`.exe` NSIS / `.msi` WiX), Linux (`.deb` / `.AppImage`) y macOS (`.dmg`) con bajo consumo de RAM y verificación SHA-256. |
-| **22** | **AI, Hybrid RAG, MCP & Agentic Systems Architect** | [SKILL.md](./skills/ai-llm-rag-agentic-architect/SKILL.md) | **Ingeniería de IA en producción.** RAG híbrido aislado por inquilino (`pgvector` + búsqueda léxica BM25 + *Cross-Encoder Reranker*), salidas estructuradas JSON Schema y defensa contra *Indirect Prompt Injection*. |
-| **23** | **Model Context Protocol (MCP) Server Builder & Architect** | [SKILL.md](./skills/mcp-server-builder-architect/SKILL.md) | **Servidores Model Context Protocol (MCP) de grado empresarial.** Basado en `modelcontextprotocol.io`. Diseño ergonómico de Tools/Resources/Prompts, transportes `stdio` (con aislamiento estricto de `stderr`) y `Streamable HTTP/SSE` con OAuth2 y validación vía MCP Inspector. |
-| **24** | **Real-Time AI Streaming & Multi-Model Router** | [SKILL.md](./skills/realtime-ai-streaming-lead/SKILL.md) | **Inferencia en tiempo real (`< 600 ms` E2E) con SSE y WebSockets.** Enrutador multimodelo con fallback automático entre Groq LPU, Gemini Flash/Live, OpenAI y ejecución local offline con Ollama, resguardando API Keys en bóvedas cifradas. |
-| **25** | **Speech-to-Speech & Anti-Echo Audio Architect** | [SKILL.md](./skills/speech-to-speech-audio-architect/SKILL.md) | **Traducción y conversación de voz a voz en tiempo real.** Topología de doble vía con aislamiento acústico total (*Zero-Feedback*), cancelación de eco WebRTC AEC3 e inyección hacia micrófonos virtuales para Meet, Zoom y Teams. |
-| **26** | **Voice Cloning, Acoustic Embeddings & Real-Time Timbre Adaptation** | [SKILL.md](./skills/voice-cloning-acoustic-adaptation/SKILL.md) | **Clonación vocal acústica dinámica y estudio de calibración en 15 segundos.** Extracción de *speaker embeddings* (d-vectors/ECAPA-TDNN), preservación del contorno prosódico ($F_0$, timbre, respiración), matriz multi-idioma bidireccional y barra flotante discreta (*Stealth Pill Bar*). |
-| **27** | **Windows Core Audio & WASAPI Native Architect** | [SKILL.md](./skills/windows-audio-native-architect/SKILL.md) | **Captura acústica nativa en Windows 10/11.** Captura `WASAPI Loopback` sin drivers externos, conversión en memoria a PCM 16 kHz mono, detección de actividad de voz (VAD) y reconexión en caliente ante cambio de auriculares. |
-| **28** | **Linux Audio Native Architect (PipeWire / PulseAudio)** | [SKILL.md](./skills/linux-audio-native-architect/SKILL.md) | **Captura acústica nativa en distribuciones Linux.** Conexión sin privilegios `root` a nodos `.monitor` de PipeWire y PulseAudio con resampling de ultra-baja latencia y bajo consumo de CPU. |
+| **22** | **Barcode, QR, Thermal Printer & Hardware Peripherals Bridge Lead** | [SKILL.md](./skills/barcode-qr-thermal-hardware-bridge/SKILL.md) | **Integración de hardware periférico comercial e industrial.** Lectores de código de barras 1D/2D por WebHID/WebSerial (sin pérdida de foco de teclado), generadores/decodificadores de códigos QR vectoriales y de cámara, impresoras térmicas ESC/POS (tickets y cajón de dinero) y etiquetas industriales ZPL/TSPL. |
+| **23** | **AI, Hybrid RAG, MCP & Agentic Systems Architect** | [SKILL.md](./skills/ai-llm-rag-agentic-architect/SKILL.md) | **Ingeniería de IA en producción.** RAG híbrido aislado por inquilino (`pgvector` + búsqueda léxica BM25 + *Cross-Encoder Reranker*), salidas estructuradas JSON Schema y defensa contra *Indirect Prompt Injection*. |
+| **24** | **Model Context Protocol (MCP) Server Builder & Architect** | [SKILL.md](./skills/mcp-server-builder-architect/SKILL.md) | **Servidores Model Context Protocol (MCP) de grado empresarial.** Basado en `modelcontextprotocol.io`. Diseño ergonómico de Tools/Resources/Prompts, transportes `stdio` (con aislamiento estricto de `stderr`) y `Streamable HTTP/SSE` con OAuth2 y validación vía MCP Inspector. |
+| **25** | **Real-Time AI Streaming & Multi-Model Router** | [SKILL.md](./skills/realtime-ai-streaming-lead/SKILL.md) | **Inferencia en tiempo real (`< 600 ms` E2E) con SSE y WebSockets.** Enrutador multimodelo con fallback automático entre Groq LPU, Gemini Flash/Live, OpenAI y ejecución local offline con Ollama, resguardando API Keys en bóvedas cifradas. |
+| **26** | **Speech-to-Speech & Anti-Echo Audio Architect** | [SKILL.md](./skills/speech-to-speech-audio-architect/SKILL.md) | **Traducción y conversación de voz a voz en tiempo real.** Topología de doble vía con aislamiento acústico total (*Zero-Feedback*), cancelación de eco WebRTC AEC3 e inyección hacia micrófonos virtuales para Meet, Zoom y Teams. |
+| **27** | **Voice Cloning, Acoustic Embeddings & Real-Time Timbre Adaptation** | [SKILL.md](./skills/voice-cloning-acoustic-adaptation/SKILL.md) | **Clonación vocal acústica dinámica y estudio de calibración en 15 segundos.** Extracción de *speaker embeddings* (d-vectors/ECAPA-TDNN), preservación del contorno prosódico ($F_0$, timbre, respiración), matriz multi-idioma bidireccional y barra flotante discreta (*Stealth Pill Bar*). |
+| **28** | **Machine Translation, Localization (l10n) & Enterprise i18n Architect** | [SKILL.md](./skills/machine-translation-localization-i18n/SKILL.md) | **Internacionalización (i18n), localización (l10n) y traducción automática neuronal.** Formato estándar ICU MessageFormat (plurales e interpolación segura), paridad de catálogos en CI/CD, soporte RTL bidireccional, memorias de traducción (TMX) y glosarios protegidos (*Do-Not-Translate*). |
+| **29** | **Windows Core Audio & WASAPI Native Architect** | [SKILL.md](./skills/windows-audio-native-architect/SKILL.md) | **Captura acústica nativa en Windows 10/11.** Captura `WASAPI Loopback` sin drivers externos, conversión en memoria a PCM 16 kHz mono, detección de actividad de voz (VAD) y reconexión en caliente ante cambio de auriculares. |
+| **30** | **Linux Audio Native Architect (PipeWire / PulseAudio)** | [SKILL.md](./skills/linux-audio-native-architect/SKILL.md) | **Captura acústica nativa en distribuciones Linux.** Conexión sin privilegios `root` a nodos `.monitor` de PipeWire y PulseAudio con resampling de ultra-baja latencia y bajo consumo de CPU. |
 
 ---
 
-### Fase 4: ERP/Contabilidad, E-Commerce, Fintech, Logística WMS/TMS, Flotas IoT y Auditoría Ejecutiva (8)
+### Fase 4: Verticales Especializadas: Salud/Médico, Dental, IIoT Industrial, ERP, E-Commerce, Fintech y Logística (11)
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
-| **29** | **ERP, Double-Entry Accounting Ledger & HCM Payroll Architect** | [SKILL.md](./skills/erp-accounting-payroll-architect/SKILL.md) | **Arquitectura ERP, Partida Doble inmutable y Nómina HCM.** Invariante matemático $\sum \text{Débito} = \sum \text{Crédito} = 0.0000$, reversión estricta por contra-asiento, candado de períodos fiscales NIIF/IFRS y motor de liquidación salarial con árbol de expresiones auditable. |
-| **30** | **E-Commerce, Catalog, Inventory & Omnichannel Checkout Architect** | [SKILL.md](./skills/ecommerce-catalog-checkout-architect/SKILL.md) | **Comercio electrónico de alta concurrencia y reserva atómica de inventario.** Catálogos SPU vs. variantes SKU, congelación inmutable de precios en la orden, prevención de sobreventa (*Zero-Overselling*) en Flash Sales y recuperación omnicanal de carritos abandonados. |
-| **31** | **Fintech Payments, Subscriptions & Billing Architect** | [SKILL.md](./skills/fintech-payments-billing-architect/SKILL.md) | **Pasarelas de pago, suscripciones recurrentes y libro mayor.** Cumplimiento PCI-DSS SAQ-A (tokenización 3DS2), activación exclusiva por Webhooks firmados con HMAC-SHA256, idempotencia contra doble cobro, *Smart Dunning* y libro mayor *Append-Only*. |
-| **32** | **Logistics, WMS & Supply Chain Systems Architect** | [SKILL.md](./skills/logistics-distribution-systems/SKILL.md) | **Almacenes (WMS), inventarios y distribución (TMS).** Reserva atómica contra saldos negativos, Kardex inmutable con costeo NIC 2, rotación por lotes/vencimientos (**FEFO/FIFO**), *Wave Picking* con Handhelds y prueba electrónica de entrega (*ePOD*). |
-| **33** | **Fleet Telematics, CAN-Bus & IoT Logistics Architect** | [SKILL.md](./skills/fleet-telematics-iot-audit/SKILL.md) | **Telemetría vehicular GPS, cadena de frío y control de combustible.** Seguridad M2M en APN privado sobre MQTTS, monitoreo inmutable de temperatura en furgones refrigerados, lectura de computadora de a bordo (CAN Bus J1939) y detección de drenaje de combustible. |
-| **34** | **Physical Security, CCTV/VMS & Access Control Auditor** | [SKILL.md](./skills/cctv-physical-security-audit/SKILL.md) | **Videovigilancia IP, control biométrico y redes PoE.** Cálculo de retención en arreglos RAID, aislamiento en VLAN CCTV dedicada sin salida a Internet, hardening contra botnets IoT, respaldo eléctrico UPS y cadena de custodia forense con hash SHA-256. |
-| **35** | **IT Governance & Forensic Audit Lead** | [SKILL.md](./skills/it-governance-forensic-audit/SKILL.md) | **Auditoría técnica forense en Modo Solo Lectura.** Basado en COBIT 2019, ITIL v4 e ISO 22301 (BCP/DRP). Diagnóstico sin mutar código productivo estructurado en 3 partes obligatorias: *1. ¿Qué pasa?*, *2. ¿Por qué pasa?* y *3. ¿Qué hacer?*. |
-| **36** | **Executive Board & C-Level Reporting Lead** | [SKILL.md](./skills/executive-board-reporting/SKILL.md) | **Informes para Junta Directiva, Accionistas y CFO.** Principio de la Pirámide de Minto (*BLUF*), traducción de riesgos técnicos a impacto patrimonial en dólares, mapas de calor de riesgos, análisis CAPEX/OPEX y plan de acción 30/60/90 días. |
+| **31** | **Healthcare Software, HL7, FHIR & Medical Devices Architect** | [SKILL.md](./skills/healthcare-hl7-fhir-medical-systems/SKILL.md) | **Software hospitalario y expediente clínico electrónico (EHR/HIS).** Interoperabilidad con HL7 v2.x (ADT/ORM/ORU sobre MLLP/TCP), HL7 FHIR (R4/R5 REST JSON), visores de imágenes médicas DICOM / PACS (DICOMweb WADO-RS), receta electrónica y estricta confidencialidad médica HIPAA. |
+| **32** | **Dental Software, Interactive Odontogram & Imaging Systems Architect** | [SKILL.md](./skills/dental-odontogram-imaging-systems/SKILL.md) | **Software odontológico, clínicas dentales y periodontograma.** Odontograma vectorial SVG interactivo multi-nomenclatura (FDI ISO 3950, Universal ADA y Palmer), periodontograma clínico con sondeo de 6 puntos, captura de sensores intraorales de rayos X (TWAIN/DICOM) y presupuestos automáticos. |
+| **33** | **Industrial Automation, IIoT, SCADA & PLC Connectivity Architect** | [SKILL.md](./skills/industrial-iiot-scada-plc-architect/SKILL.md) | **Automatización industrial, sistemas SCADA, IIoT e integración con PLCs.** Conectividad con controladores de planta vía OPC UA (Client/Server y PubSub con certificados X.509), Modbus TCP/RTU, MQTT Sparkplug B y cálculo de métricas en tiempo real (OEE y mantenimiento predictivo). |
+| **34** | **ERP, Double-Entry Accounting Ledger & HCM Payroll Architect** | [SKILL.md](./skills/erp-accounting-payroll-architect/SKILL.md) | **Arquitectura ERP, Partida Doble inmutable y Nómina HCM.** Invariante matemático $\sum \text{Débito} = \sum \text{Crédito} = 0.0000$, reversión estricta por contra-asiento, candado de períodos fiscales NIIF/IFRS y motor de liquidación salarial con árbol de expresiones auditable. |
+| **35** | **E-Commerce, Catalog, Inventory & Omnichannel Checkout Architect** | [SKILL.md](./skills/ecommerce-catalog-checkout-architect/SKILL.md) | **Comercio electrónico de alta concurrencia y reserva atómica de inventario.** Catálogos SPU vs. variantes SKU, congelación inmutable de precios en la orden, prevención de sobreventa (*Zero-Overselling*) en Flash Sales y recuperación omnicanal de carritos abandonados. |
+| **36** | **Fintech Payments, Subscriptions & Billing Architect** | [SKILL.md](./skills/fintech-payments-billing-architect/SKILL.md) | **Pasarelas de pago, suscripciones recurrentes y libro mayor.** Cumplimiento PCI-DSS SAQ-A (tokenización 3DS2), activación exclusiva por Webhooks firmados con HMAC-SHA256, idempotencia contra doble cobro, *Smart Dunning* y libro mayor *Append-Only*. |
+| **37** | **Logistics, WMS & Supply Chain Systems Architect** | [SKILL.md](./skills/logistics-distribution-systems/SKILL.md) | **Almacenes (WMS), inventarios y distribución (TMS).** Reserva atómica contra saldos negativos, Kardex inmutable con costeo NIC 2, rotación por lotes/vencimientos (**FEFO/FIFO**), *Wave Picking* con Handhelds y prueba electrónica de entrega (*ePOD*). |
+| **38** | **Fleet Telematics, CAN-Bus & IoT Logistics Architect** | [SKILL.md](./skills/fleet-telematics-iot-audit/SKILL.md) | **Telemetría vehicular GPS, cadena de frío y control de combustible.** Seguridad M2M en APN privado sobre MQTTS, monitoreo inmutable de temperatura en furgones refrigerados, lectura de computadora de a bordo (CAN Bus J1939) y detección de drenaje de combustible. |
+| **39** | **Physical Security, CCTV/VMS & Access Control Auditor** | [SKILL.md](./skills/cctv-physical-security-audit/SKILL.md) | **Videovigilancia IP, control biométrico y redes PoE.** Cálculo de retención en arreglos RAID, aislamiento en VLAN CCTV dedicada sin salida a Internet, hardening contra botnets IoT, respaldo eléctrico UPS y cadena de custodia forense con hash SHA-256. |
+| **40** | **IT Governance & Forensic Audit Lead** | [SKILL.md](./skills/it-governance-forensic-audit/SKILL.md) | **Auditoría técnica forense en Modo Solo Lectura.** Basado en COBIT 2019, ITIL v4 e ISO 22301 (BCP/DRP). Diagnóstico sin mutar código productivo estructurado en 3 partes obligatorias: *1. ¿Qué pasa?*, *2. ¿Por qué pasa?* y *3. ¿Qué hacer?*. |
+| **41** | **Executive Board & C-Level Reporting Lead** | [SKILL.md](./skills/executive-board-reporting/SKILL.md) | **Informes para Junta Directiva, Accionistas y CFO.** Principio de la Pirámide de Minto (*BLUF*), traducción de riesgos técnicos a impacto patrimonial en dólares, mapas de calor de riesgos, análisis CAPEX/OPEX y plan de acción 30/60/90 días. |
 
 ---
 
@@ -264,12 +279,12 @@ AI-SIASANI-Skills/
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
-| **37** | **QA Evidence-Based Verification Lead** | [SKILL.md](./skills/qa-evidence-based-verification/SKILL.md) | **Verificación en caliente (*In-Flight QA*) y Tolerancia Cero a Mocks.** Segregación de funciones (quien codifica no auto-aprueba su entrega), prueba en las 4 capas (SQL, HTTP `curl`, UI con recarga `F5` y bitácora de auditoría), prueba de idempotencia y Bloque de Evidencia Cruda. |
-| **38** | **Test-Driven Development (TDD: Red-Green-Refactor) Lead** | [SKILL.md](./skills/tdd-red-green-refactor/SKILL.md) | **Disciplina estricta Red-Green-Refactor y pruebas basadas en propiedades.** Prohibición absoluta de código productivo sin test fallido previo, pirámide de alta fidelidad con Testcontainers reales y verificación de valores límite (*Boundary Value Analysis*). |
-| **39** | **Systematic Debugging & Root-Cause Triage Lead** | [SKILL.md](./skills/systematic-debugging-root-cause/SKILL.md) | **Metodología científica de depuración en 4 fases.** Reproducción determinista, trazabilidad del flujo de datos hacia atrás, formulación de hipótesis única falsable y corrección en la raíz blindada con tests de regresión (prohíbe parches cosméticos). |
-| **40** | **E2E WebApp Automation & Load Testing Lead** | [SKILL.md](./skills/e2e-webapp-load-testing-lead/SKILL.md) | **Suites E2E en navegador real (Playwright) y pruebas de estrés (k6).** Cero `sleep()` arbitrarios, fallo automático ante cualquier `pageerror` de consola o `HTTP 500`, pruebas de concurrencia contra condiciones de carrera y validación de latencia P95/P99. |
-| **41** | **Cybersecurity Zero-Trust & Defensive Architect** | [SKILL.md](./skills/cybersecurity-zero-trust-defensive/SKILL.md) | **Seguridad Zero-Trust y OWASP ASVS v4 Nivel 3.** Firma asimétrica RSA-RS256/JWKS, bloqueo de *Algorithm Confusion Attack*, defensa contra *Tenant Leakage* (Anti-IDOR/BOLA), cookies `HttpOnly`, sanitización de PII en logs y *Rate Limiting* por inquilino. |
-| **42** | **Observability, SRE & Self-Healing Systems Architect** | [SKILL.md](./skills/observability-sre-self-healing/SKILL.md) | **Operación autónoma 24/7 y auto-recuperación (*Self-Healing*).** Telemetría OpenTelemetry (Las 4 Señales Doradas), auto-reinicio por `healthcheck`, *Circuit Breakers*, rotación automática de logs/disco, renovación desatendida de certificados SSL y alertas de alta señal. |
+| **42** | **QA Evidence-Based Verification Lead** | [SKILL.md](./skills/qa-evidence-based-verification/SKILL.md) | **Verificación en caliente (*In-Flight QA*) y Tolerancia Cero a Mocks.** Segregación de funciones (quien codifica no auto-aprueba su entrega), prueba en las 4 capas (SQL, HTTP `curl`, UI con recarga `F5` y bitácora de auditoría), prueba de idempotencia y Bloque de Evidencia Cruda. |
+| **43** | **Test-Driven Development (TDD: Red-Green-Refactor) Lead** | [SKILL.md](./skills/tdd-red-green-refactor/SKILL.md) | **Disciplina estricta Red-Green-Refactor y pruebas basadas en propiedades.** Prohibición absoluta de código productivo sin test fallido previo, pirámide de alta fidelidad con Testcontainers reales y verificación de valores límite (*Boundary Value Analysis*). |
+| **44** | **Systematic Debugging & Root-Cause Triage Lead** | [SKILL.md](./skills/systematic-debugging-root-cause/SKILL.md) | **Metodología científica de depuración en 4 fases.** Reproducción determinista, trazabilidad del flujo de datos hacia atrás, formulación de hipótesis única falsable y corrección en la raíz blindada con tests de regresión (prohíbe parches cosméticos). |
+| **45** | **E2E WebApp Automation & Load Testing Lead** | [SKILL.md](./skills/e2e-webapp-load-testing-lead/SKILL.md) | **Suites E2E en navegador real (Playwright) y pruebas de estrés (k6).** Cero `sleep()` arbitrarios, fallo automático ante cualquier `pageerror` de consola o `HTTP 500`, pruebas de concurrencia contra condiciones de carrera y validación de latencia P95/P99. |
+| **46** | **Cybersecurity Zero-Trust & Defensive Architect** | [SKILL.md](./skills/cybersecurity-zero-trust-defensive/SKILL.md) | **Seguridad Zero-Trust y OWASP ASVS v4 Nivel 3.** Firma asimétrica RSA-RS256/JWKS, bloqueo de *Algorithm Confusion Attack*, defensa contra *Tenant Leakage* (Anti-IDOR/BOLA), cookies `HttpOnly`, sanitización de PII en logs y *Rate Limiting* por inquilino. |
+| **47** | **Observability, SRE & Self-Healing Systems Architect** | [SKILL.md](./skills/observability-sre-self-healing/SKILL.md) | **Operación autónoma 24/7 y auto-recuperación (*Self-Healing*).** Telemetría OpenTelemetry (Las 4 Señales Doradas), auto-reinicio por `healthcheck`, *Circuit Breakers*, rotación automática de logs/disco, renovación desatendida de certificados SSL y alertas de alta señal. |
 
 ---
 
@@ -277,10 +292,10 @@ AI-SIASANI-Skills/
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
-| **43** | **Technical Documentation & Process Governance Lead** | [SKILL.md](./skills/technical-documentation-process-governance/SKILL.md) | **Gobernanza *Docs-as-Code*, co-autoría técnica y ADRs.** Sincronización obligatoria entre código, catálogo de APIs, diccionario de datos y manuales multilingües, plantillas **ADR** y *Prueba del Lector Frío*. |
-| **44** | **Process Flow Governance & Business Modeling Lead** | [SKILL.md](./skills/process-flow-documentation/SKILL.md) | **Modelado formal de procesos (APQC N0–N3 + ISO 9001 §4.4).** Todo formulario o flujo transaccional se documenta con su ficha **SIPOC**, modelo funcional **IDEF0 (ICOM)**, diagrama de carriles Mermaid, tabla técnica paso a paso, matriz **RACI** y máquina de estados. |
-| **45** | **Enterprise Office Document Automation Suite (PDF, DOCX, XLSX & PPTX)** | [SKILL.md](./skills/office-document-automation-suite/SKILL.md) | **Ingeniería documental ofimática automatizada y determinista.** Inspirado en `anthropics/skills`. Generación de Excel con fórmulas nativas auditadas y colores de Wall Street, contratos Word con jerarquía canónica, reportes ejecutivos en PDF sin saltos de página partidos y presentaciones PPTX 16:9. |
-| **46** | **Automated Demo Video & Training Producer** | [SKILL.md](./skills/automated-demo-video-training-producer/SKILL.md) | **Grabación automatizada de videos demostrativos 1080p (`.mp4`).** Captura la interfaz web real en ejecución con Playwright interactuando paso a paso, sincronizada con locución neural (`edge-tts`) y subtítulos masterizados con FFmpeg (`H.264 yuv420p`). |
+| **48** | **Technical Documentation & Process Governance Lead** | [SKILL.md](./skills/technical-documentation-process-governance/SKILL.md) | **Gobernanza *Docs-as-Code*, co-autoría técnica y ADRs.** Sincronización obligatoria entre código, catálogo de APIs, diccionario de datos y manuales multilingües, plantillas **ADR** y *Prueba del Lector Frío*. |
+| **49** | **Process Flow Governance & Business Modeling Lead** | [SKILL.md](./skills/process-flow-documentation/SKILL.md) | **Modelado formal de procesos (APQC N0–N3 + ISO 9001 §4.4).** Todo formulario o flujo transaccional se documenta con su ficha **SIPOC**, modelo funcional **IDEF0 (ICOM)**, diagrama de carriles Mermaid, tabla técnica paso a paso, matriz **RACI** y máquina de estados. |
+| **50** | **Enterprise Office Document Automation Suite (PDF, DOCX, XLSX & PPTX)** | [SKILL.md](./skills/office-document-automation-suite/SKILL.md) | **Ingeniería documental ofimática automatizada y determinista.** Inspirado en `anthropics/skills`. Generación de Excel con fórmulas nativas auditadas y colores de Wall Street, contratos Word con jerarquía canónica, reportes ejecutivos en PDF sin saltos de página partidos y presentaciones PPTX 16:9. |
+| **51** | **Automated Demo Video & Training Producer** | [SKILL.md](./skills/automated-demo-video-training-producer/SKILL.md) | **Grabación automatizada de videos demostrativos 1080p (`.mp4`).** Captura la interfaz web real en ejecución con Playwright interactuando paso a paso, sincronizada con locución neural (`edge-tts`) y subtítulos masterizados con FFmpeg (`H.264 yuv420p`). |
 
 ---
 
@@ -288,10 +303,10 @@ AI-SIASANI-Skills/
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
-| **47** | **DevOps & Immutable Cloud Infrastructure Lead** | [SKILL.md](./skills/devops-immutable-cloud-infrastructure/SKILL.md) | **Orquestación Docker idempotente y despliegues sin caída.** Mapeo seguro de volúmenes (`/var/lib/postgresql/data` y llaves de sesión), resolución DNS dinámica en Nginx (`resolver 127.0.0.11` con variables `$upstream`), protección de certificados Let's Encrypt y *Smoke Tests* bloqueantes. |
-| **48** | **Edge Computing, Serverless Workers & CDN Security Architect** | [SKILL.md](./skills/edge-serverless-cdn-architect/SKILL.md) | **Arquitectura Edge-First, Workers y seguridad perimetral.** Inspirado en `cloudflare/skills` y `vercel-labs/agent-skills`. Verificación JWT asimétrica en el borde (< 2 ms), ingeniería de caché RFC 9111 con *Stale-While-Revalidate*, y estado coordinado con Durable Objects. |
-| **49** | **Git Worktrees, Semantic Release Engineering & Branch Governance** | [SKILL.md](./skills/git-worktree-release-engineering/SKILL.md) | **Control de versiones avanzado, desarrollo paralelo y lanzamientos semánticos.** Aislamiento de ramas con `git worktree`, Conventional Commits atómicos obligatorios, versionado SemVer automatizado y prohibición absoluta de reescritura destructiva (`push --force`). |
-| **50** | **Code Simplifier & Software Maintenance Architect** | [SKILL.md](./skills/code-simplifier-refactoring-maintenance/SKILL.md) | **Mantenimiento evolutivo sin regresión (*Primum Non Nocere*).** Protocolo de refactorización en 4 fases (Caracterización, Intervención Quirúrgica, Verificación y Poda), cláusulas de guarda (*Early Return*), regla de Sandi Metz y purga física de archivos huérfanos (*Zero-Orphan-Files*). |
+| **52** | **DevOps & Immutable Cloud Infrastructure Lead** | [SKILL.md](./skills/devops-immutable-cloud-infrastructure/SKILL.md) | **Orquestación Docker idempotente y despliegues sin caída.** Mapeo seguro de volúmenes (`/var/lib/postgresql/data` y llaves de sesión), resolución DNS dinámica en Nginx (`resolver 127.0.0.11` con variables `$upstream`), protección de certificados Let's Encrypt y *Smoke Tests* bloqueantes. |
+| **53** | **Edge Computing, Serverless Workers & CDN Security Architect** | [SKILL.md](./skills/edge-serverless-cdn-architect/SKILL.md) | **Arquitectura Edge-First, Workers y seguridad perimetral.** Inspirado en `cloudflare/skills` y `vercel-labs/agent-skills`. Verificación JWT asimétrica en el borde (< 2 ms), ingeniería de caché RFC 9111 con *Stale-While-Revalidate*, y estado coordinado con Durable Objects. |
+| **54** | **Git Worktrees, Semantic Release Engineering & Branch Governance** | [SKILL.md](./skills/git-worktree-release-engineering/SKILL.md) | **Control de versiones avanzado, desarrollo paralelo y lanzamientos semánticos.** Aislamiento de ramas con `git worktree`, Conventional Commits atómicos obligatorios, versionado SemVer automatizado y prohibición absoluta de reescritura destructiva (`push --force`). |
+| **55** | **Code Simplifier & Software Maintenance Architect** | [SKILL.md](./skills/code-simplifier-refactoring-maintenance/SKILL.md) | **Mantenimiento evolutivo sin regresión (*Primum Non Nocere*).** Protocolo de refactorización en 4 fases (Caracterización, Intervención Quirúrgica, Verificación y Poda), cláusulas de guarda (*Early Return*), regla de Sandi Metz y purga física de archivos huérfanos (*Zero-Orphan-Files*). |
 
 ---
 
@@ -299,14 +314,14 @@ AI-SIASANI-Skills/
 
 | # | Skill | Archivo | Propósito y Estándares Clave |
 | :-: | :--- | :--- | :--- |
-| **51** | **Advertising, Copywriting & Multimedia Production Lead** | [SKILL.md](./skills/advertising-marketing-lead/SKILL.md) | **Campañas publicitarias B2B/B2C y producción audiovisual determinista.** Copywriting de respuesta directa (Eugene Schwartz, PAS, AIDA, BAB, protocolo *Anti-AI-Slop*), fidelidad estricta al código y generación automatizada de Flyers (16:9 y 9:16), tarjetas ejecutivas y spots de video con FFmpeg + PIL + locución neural. |
-| **52** | **Conversion Rate Optimization (CRO), Product Analytics & Growth Lead** | [SKILL.md](./skills/cro-analytics-growth-experiments/SKILL.md) | **Optimización de Tasa de Conversión y Analítica de Producto.** Taxonomía de eventos de producto (AARRR), auditoría heurística de fricción en embudos de registro/checkout, experimentación A/B con rigor estadístico ($p < 0.05$) y pruebas de usabilidad de 5 segundos. |
-| **53** | **Social Media Omnichannel & Growth Automation Lead** | [SKILL.md](./skills/social-media-omnichannel-automation/SKILL.md) | **Automatización integral de Redes Sociales y conversión de leads.** Multiplicación `1 activo ➔ 7 canales` (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, X, Facebook, WhatsApp Business API y Telegram), cola idempotente de publicación vía APIs OAuth2, enlaces UTM y bots de respuesta inmediata (< 30s) hacia el CRM. |
-| **54** | **Customer Success, Service Desk ITIL v4 & AI Support Automation** | [SKILL.md](./skills/customer-success-support-automation/SKILL.md) | **Service Desk ITIL v4 y soporte omnicanal inteligente.** Automatización Tier-1 con IA sin alucinaciones anclada en manuales verificados, gestión estricta de SLAs (MTTR, FRT) con pausa auditada, monitoreo de Customer Health Score y prevención proactiva de Churn. |
-| **55** | **Autonomous Workflow, Cron & Multi-Agent Swarm Orchestrator** | [SKILL.md](./skills/autonomous-workflow-cron-swarm/SKILL.md) | **Piloto automático 24/7 y coordinación de enjambres multi-agente.** Tareas Cron autocontenidas con zona horaria IANA (`CRON_TZ`), bloqueos contra solapamiento (`flock` / advisory locks), las 5 rutinas autónomas esenciales (salud, backups, conciliación, digest matutino y auditoría) y trabajo en paralelo con subagentes (*Swarm*). |
-| **56** | **Job Hunter & B2B Opportunity Scout** | [SKILL.md](./skills/job-hunter-scout/SKILL.md) | **Inteligencia de oportunidades y contratos remotos B2B.** Filtrado de vacantes/pliegos, cálculo ponderado de afinidad técnica (*Fit Score 0–100%*) y redacción de propuestas directas en 3 párrafos orientadas a resultados. |
-| **57** | **Resume & ATS Engineering Optimizer** | [SKILL.md](./skills/resume-ats-optimizer/SKILL.md) | **Optimización algorítmica de CV para filtros ATS.** Redacción de logros bajo la **Fórmula Google XYZ** (*Logré X, medido por Y, mediante Z*), estructura lineal limpia para Workday/Greenhouse y exportación PDF verificable. |
-| **58** | **LinkedIn Profile & Executive Branding Optimizer** | [SKILL.md](./skills/linkedin-profile-optimizer/SKILL.md) | **Posicionamiento SEO en LinkedIn Recruiter y marca personal.** Ingeniería de titular (`≤ 220 caracteres`), narrativa de autoridad en "Acerca de", asociación de aptitudes verificadas por cargo y portafolio destacado. |
+| **56** | **Advertising, Copywriting & Multimedia Production Lead** | [SKILL.md](./skills/advertising-marketing-lead/SKILL.md) | **Campañas publicitarias B2B/B2C y producción audiovisual determinista.** Copywriting de respuesta directa (Eugene Schwartz, PAS, AIDA, BAB, protocolo *Anti-AI-Slop*), fidelidad estricta al código y generación automatizada de Flyers (16:9 y 9:16), tarjetas ejecutivas y spots de video con FFmpeg + PIL + locución neural. |
+| **57** | **Conversion Rate Optimization (CRO), Product Analytics & Growth Lead** | [SKILL.md](./skills/cro-analytics-growth-experiments/SKILL.md) | **Optimización de Tasa de Conversión y Analítica de Producto.** Taxonomía de eventos de producto (AARRR), auditoría heurística de fricción en embudos de registro/checkout, experimentación A/B con rigor estadístico ($p < 0.05$) y pruebas de usabilidad de 5 segundos. |
+| **58** | **Social Media Omnichannel & Growth Automation Lead** | [SKILL.md](./skills/social-media-omnichannel-automation/SKILL.md) | **Automatización integral de Redes Sociales y conversión de leads.** Multiplicación `1 activo ➔ 7 canales` (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, X, Facebook, WhatsApp Business API y Telegram), cola idempotente de publicación vía APIs OAuth2, enlaces UTM y bots de respuesta inmediata (< 30s) hacia el CRM. |
+| **59** | **Customer Success, Service Desk ITIL v4 & AI Support Automation** | [SKILL.md](./skills/customer-success-support-automation/SKILL.md) | **Service Desk ITIL v4 y soporte omnicanal inteligente.** Automatización Tier-1 con IA sin alucinaciones anclada en manuales verificados, gestión estricta de SLAs (MTTR, FRT) con pausa auditada, monitoreo de Customer Health Score y prevención proactiva de Churn. |
+| **60** | **Autonomous Workflow, Cron & Multi-Agent Swarm Orchestrator** | [SKILL.md](./skills/autonomous-workflow-cron-swarm/SKILL.md) | **Piloto automático 24/7 y coordinación de enjambres multi-agente.** Tareas Cron autocontenidas con zona horaria IANA (`CRON_TZ`), bloqueos contra solapamiento (`flock` / advisory locks), las 5 rutinas autónomas esenciales (salud, backups, conciliación, digest matutino y auditoría) y trabajo en paralelo con subagentes (*Swarm*). |
+| **61** | **Job Hunter & B2B Opportunity Scout** | [SKILL.md](./skills/job-hunter-scout/SKILL.md) | **Inteligencia de oportunidades y contratos remotos B2B.** Filtrado de vacantes/pliegos, cálculo ponderado de afinidad técnica (*Fit Score 0–100%*) y redacción de propuestas directas en 3 párrafos orientadas a resultados. |
+| **62** | **Resume & ATS Engineering Optimizer** | [SKILL.md](./skills/resume-ats-optimizer/SKILL.md) | **Optimización algorítmica de CV para filtros ATS.** Redacción de logros bajo la **Fórmula Google XYZ** (*Logré X, medido por Y, mediante Z*), estructura lineal limpia para Workday/Greenhouse y exportación PDF verificable. |
+| **63** | **LinkedIn Profile & Executive Branding Optimizer** | [SKILL.md](./skills/linkedin-profile-optimizer/SKILL.md) | **Posicionamiento SEO en LinkedIn Recruiter y marca personal.** Ingeniería de titular (`≤ 220 caracteres`), narrativa de autoridad en "Acerca de", asociación de aptitudes verificadas por cargo y portafolio destacado. |
 
 ---
 
@@ -346,7 +361,7 @@ npx skills add SIASA-NI/AI-SIASANI-Skills
 
 ## ⚖️ Licencia — GNU General Public License v3.0 (GPL-3.0)
 
-Este repositorio y todas las **58 Agent Skills** que lo componen se distribuyen bajo los términos de la **[GNU General Public License v3.0 (GPL-3.0)](./LICENSE)**.
+Este repositorio y todas las **63 Agent Skills** que lo componen se distribuyen bajo los términos de la **[GNU General Public License v3.0 (GPL-3.0)](./LICENSE)**.
 
 ### Derechos y Obligaciones Principales (GPL-3.0)
 - ✅ **Uso comercial, privado y académico permitido:** Puedes utilizar, ejecutar e integrar estas skills en tus agentes de IA, flujos de ingeniería y proyectos.
